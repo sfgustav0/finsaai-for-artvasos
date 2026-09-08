@@ -50,7 +50,7 @@ Deno.serve(async (req) => {
 
     const resendPayload = {
       from: "FinSAAI <boletos@notificacoes.finsaai.com.br>",
-      to: ["lojaartvasosmg@hotmail.com"],
+      to: ["sfgustavo00@gmail.com"],
       subject: `🔔 Novo Boleto registrado - Vence em ${dataVencimento}`,
       html: `
           <div style="font-family: Arial, sans-serif; color: #333;">

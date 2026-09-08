@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { createClient } from '@supabase/supabase-js';
 import { DataTable } from "./data_table";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
